@@ -56,17 +56,3 @@ This is just the beginning! Future sessions will cover:
 Whether you're new to AI or looking to expand your toolkit, these workshops are designed to be accessible, practical, and most importantly - fun!
 
 See you at the workshop! 🎉
-
----
-
-### 🔧 Setting Up GitHub Pages
-
-To enable GitHub Pages for this site:
-
-1. Go to your repository's **Settings**
-2. Navigate to **Pages** in the sidebar
-3. Under **Source**, select the **main** branch
-4. Select **/docs** as the folder
-5. Click **Save**
-
-Your site will be live at `https://<username>.github.io/<repository-name>/`
