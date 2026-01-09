@@ -1,38 +1,58 @@
-# 🤔 Crack Open the AI Mystery Box!  
-*Your AI Workshop Series Starts Here*
+# AI Workshop Series
+
+## 🚀 Cracking Open AI Together
+
+Welcome to our AI Workshop Series! Join us for practical, hands-on sessions where we explore real-world AI tools and techniques together.
 
 ---
 
-## 📅 Date &amp; Time  
-**9th January**  
-⏰ **6:00pm – 7:30pm**  
-⏳ **Duration:** 90 minutes
+## 🎯 First Session: Exploring AI with Antigravity
 
-## 📍 Location  
-<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MWtpcnU3aGNsdjI0dXUwcTQyYnE2c2xucGIgc29ueWFzaHBpY3NAbQ&amp;tmsrc=sonyashpics%40gmail.com">Google Meet: meet.google.com/dev-dpqs-seq</a>
+Get ready for an exciting journey into the world of AI! Our inaugural session will feature **Antigravity** - a practical dive into AI capabilities.
 
----
+### 📅 Event Details
 
-## ✨ Why Join?
-Because learning AI doesn't have to be boring!  
-- ✅ Hands‑on &amp; interactive  
-- ✅ Tied to real‑life problems (intent, chaos, productivity)  
-- ✅ Learn deeper concepts like **Embeddings, Tokenization, RAG** and more with <a href="https://www.linkedin.com/in/tusharsugandhi">Tushar Sugandhi</a>  
+- **Date:** 9th January 2026
+- **Time:** 6:00 PM – 7:30 PM (90 minutes)
+- **Platform:** Google Meet
+
+**[📆 Add to Your Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWtpcnU3aGNsdjI0dXUwcTQyYnE2c2xucGIgc29ueWFzaHBpY3NAbQ&tmsrc=sonyashpics%40gmail.com)**
 
 ---
 
-## 🛠️ Prerequisites  
-Please set up before the workshop using this guide:  
-👉 <a href="https://docs.google.com/document/d/1O2bdcgk1U3WB2DH3eOUkp7MFbc2yXl8mARjWqRmXmd0/edit?usp=sharing">Workshop Setup Guide</a>
+## 💡 Why Join?
+
+This isn't just another lecture - it's a **fun, hands-on, practical** experience designed to tackle real-life challenges:
+
+- 🎯 **Real Problems, Real Solutions:** Address intent, chaos, and productivity challenges
+- 🧠 **Master Core Concepts:** Learn about Embeddings, Tokenization, and RAG (Retrieval Augmented Generation)
+- 🛠️ **Interactive Sessions:** Work through practical examples and use cases
+- 👨‍💻 **Expert Guidance:** Learn with [Tushar Sugandhi](https://www.linkedin.com/in/tushar-sugandhi/)
 
 ---
 
-## 🔮 Upcoming Sneak Peeks  
-Get excited — in future sessions we'll explore:  
-- ✨ Claude Code — coding assistance made smarter  
-- ✨ Loveable — AI for delightful user experiences  
-- …and many more cutting‑edge tools to expand your AI toolkit!
+## 📋 Prerequisites
+
+To get the most out of this workshop, please complete the setup before the session:
+
+**[📖 Setup Guide](https://docs.google.com/document/d/1O2bdcgk1U3WB2DH3eOUkp7MFbc2yXl8mARjWqRmXmd0/edit?usp=sharing)**
+
+Make sure you have everything configured and ready to go!
 
 ---
 
-*Each session introduces a fresh tool — from fetching data to summarizing, classifying, and improving outputs. Think of it as your AI starter kit, built step by step in a way that's fun, practical, and tied to everyday life!*
+## 🔮 What's Coming Next?
+
+This is just the beginning! Future sessions will cover:
+
+- **Claude Code** - AI-powered coding assistance
+- **Loveable** - Building with AI
+- And many more exciting tools and techniques!
+
+---
+
+## 🤝 Let's Learn Together!
+
+Whether you're new to AI or looking to expand your toolkit, these workshops are designed to be accessible, practical, and most importantly - fun!
+
+See you at the workshop! 🎉
