@@ -72,6 +72,9 @@ It's a **single HTML file** — just save, open, and run it on your computer. No
 - Include the OpenAI API call in JS with a placeholder for the API key
 - Make sure the app works when opened in a browser, with all functionality described above
 
+**AFTER CREATING THE FILE:**
+- Automatically open the HTML file in the default browser so the user can test it immediately.
+
 ---
 
 ## Usage Instructions
