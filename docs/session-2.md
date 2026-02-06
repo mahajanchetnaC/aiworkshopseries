@@ -1,32 +1,13 @@
-# AI Workshop Series — Session 2
+# Session 2
 
-## 🤔 Tired of AI feeling like a mystery box?
-Let’s crack it open together 🚀
+## Pre-requisites
 
-I’m excited to announce the second session of my AI Workshop Series — a set of hands-on, interactive sessions where we’ll break down AI concepts and apply them to real-world use cases.
+[Link to Pre-requisites](https://docs.google.com/document/d/1r0SfBng8Tr0Cl0ThqcjBX3Tww-61IG69-NNEF1riBio/edit?usp=sharing)
 
-The first session for Antigravity had great response. Thank you for the support.
+## Meeting Link
 
----
-
-## 📅 Event Details
-
-- **Date:** 6th Feb 2026  
-- **Time:** 6:30 – 8:00 PM  
-- **Platform:** Google Meet  
-- **Join link:** https://meet.google.com/dev-dpqs-seq
-
----
-
-## ✨ Why join?
-
-✅ Will lead hands-on & interactive session with Claude  
-✅ Real-world AI concepts (intent, productivity)  
-✅ Guest lecture about a deep concept from Gaurav Yeole⁩
-
----
+[Join the meeting](https://meet.google.com/orv-eoze-sjf)
 
 ## 🔗 More info
 
-All details, agenda & prerequisites:  
-https://mahajanchetnac.github.io/aiworkshopseries/
+The next workshop will be GitHub and Azure Foundry.
